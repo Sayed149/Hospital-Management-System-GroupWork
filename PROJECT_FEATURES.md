@@ -1,4 +1,11 @@
 # Implemented Features
+## T-01: Doctor Management
+This task involves managing doctor information and doctor-related activities.
+- Add doctor information
+- View doctor information
+- Update doctor information
+- Manage doctor availability
+- Maintain doctor records
 ## T-02: Patient Management
 This task involves managing patient information and patient-related activities.
 - Register new patient
